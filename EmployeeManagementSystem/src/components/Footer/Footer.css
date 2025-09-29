@@ -1,0 +1,16 @@
+.footer, .mb-4, .container, a, .ext-center, .text-white, .p, .text-center, .btn{
+    /* color: white; */
+        background-color: #2b2b3a;
+
+}
+
+.footer a{
+    text-decoration: none;
+    color: rgb(167, 89, 239);
+        background-color: #2b2b3a;
+
+}
+
+.footer{
+    border-top: 2px solid white;
+}

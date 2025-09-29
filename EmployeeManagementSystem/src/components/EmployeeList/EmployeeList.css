@@ -1,0 +1,26 @@
+.employeeListHeader{
+    text-align: center;
+    padding: 30px;
+    color: rgb(167, 89, 239);
+}
+
+.list{
+    padding: 20px;
+}
+
+.bio{
+    background-color: transparent;
+    color: red;
+    font-size: large;
+    text-align: center;
+}
+
+.date{
+    background-color: transparent;
+    color: rgb(249, 249, 249);
+    font-weight:600;
+}
+
+.action{
+    text-align: center;
+}

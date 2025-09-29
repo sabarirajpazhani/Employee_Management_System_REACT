@@ -1,0 +1,38 @@
+.formMain{
+    width: 660px;
+    margin: 0 auto;
+    background-color: rgb(43, 45, 63);
+    padding: 30px;
+    margin-bottom: 70px;
+    border-radius: 20px;
+    box-shadow: 7px 7px 8px rgba(133, 62, 115, 0.3);             
+}
+
+.checkbox{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: space-between;
+}
+
+/* .form{
+    padding: 100px;
+} */
+
+.formHeader{
+    text-align: center;
+    padding: 30px;
+    color: rgb(167, 89, 239);
+}
+
+.button{
+    width: 400px;
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+    background-color: rgb(43, 45, 63);
+}
+
+.submit{
+    background-color: rgb(167, 89, 239);
+}
